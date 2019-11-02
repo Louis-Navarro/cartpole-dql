@@ -3,7 +3,7 @@ AI using DQL to play CartPole-v0
 Here is a pretty simple AI that learns to play OpenAI's CartPole map using Deep-Q-Learning.
 
 ## How to install
-1. Download this repository using `git clone https://github.com/docaro/cartpole-dql.git` (or by downloading the `.zip` file) and open a terminal in the folder (using `cd` for instance).
+1. Download this repository using `git clone https://github.com/Louis-Navarro/cartpole-dql.git` (or by downloading the `.zip` file) and open a terminal in the folder (using `cd` for instance).
 
 2. Install the required packages using `pip install -r requirements`. This may take a couple of minutes.
 
